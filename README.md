@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif">
 <h1 align="center">Hi 👋, I'm Soherto Abu Bakar Siddique</h1>
 <h3 align="center">A creative, tech-savvy, highly organized and self motivated individual, well versed with Web Developing tools and strategies.</h3>
 
